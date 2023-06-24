@@ -5,6 +5,8 @@ When there're no `make uninstall`
 ## Installation
 
 ```sh
+git clone git@github.com:eoan-ermine/make_uninstall.git
+cd make_uninstall
 sudo ./install.sh
 ```
 
